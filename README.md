@@ -1,4 +1,4 @@
-# 🎮 Mini Web Projects – HTML, CSS & Vanilla JS
+# 🎮 3 Web Projects – HTML, CSS & Vanilla JS
 
 This repository contains three beginner-friendly web applications built using only **HTML**, **CSS**, and **JavaScript**. These projects were created to practice core web development skills like DOM manipulation, event handling, and responsive design.
 
